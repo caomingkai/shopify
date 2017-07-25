@@ -1,0 +1,14 @@
+source 'https://rubygems.org'
+
+# Script
+gem 'sinatra'
+gem 'httparty'
+gem 'shopify_api'
+gem 'dotenv'
+gem 'rake'
+
+# Debugging
+gem 'pry'
+
+# Testing
+gem 'minitest'

@@ -1,0 +1,29 @@
+#<ShopifyAPI::Customer:0x007ffd79911aa8
+@attributes={
+    "id"=>6410576853,
+    "email"=>"Mathilde.Cruickshank@data-generator.com",
+    "accepts_marketing"=>false,
+    "created_at"=>"2017-07-08T13:58:56-04:00",
+    "updated_at"=>"2017-07-08T14:01:11-04:00",
+    "first_name"=>"Mathilde",
+    "last_name"=>"Cruickshank",
+    "orders_count"=>1,
+    "state"=>"enabled",
+    "total_spent"=>"0.00",
+    "last_order_id"=>5717874645,
+    "note"=>nil,
+    "verified_email"=>true,
+    "multipass_identifier"=>nil,
+    "tax_exempt"=>false,
+    "phone"=>nil,
+    "tags"=>"data-generator",
+    "last_order_name"=>"#1162",
+    "addresses"=>[]
+},
+@prefix_options={},
+@persisted=true>,
+
+#<ShopifyAPI::Customer:0x007ffd79901f18 @attributes={"id"=>6410576789, "email"=>"Gerry.Mraz@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:54-04:00", "updated_at"=>"2017-07-08T13:58:55-04:00", "first_name"=>"Gerry", "last_name"=>"Mraz", "orders_count"=>0, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>nil, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>nil, "addresses"=>[]}, @prefix_options={}, @persisted=true>,
+#<ShopifyAPI::Customer:0x007ffd799002d0 @attributes={"id"=>6410576597, "email"=>"Wilton.McCullough@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:52-04:00", "updated_at"=>"2017-07-08T14:01:50-04:00", "first_name"=>"Wilton", "last_name"=>"McCullough", "orders_count"=>1, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>5717884053, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>"#1270", "addresses"=>[]}, @prefix_options={}, @persisted=true>, #<
+ShopifyAPI::Customer:0x007ffd798f1ca8 @attributes={"id"=>6410576469, "email"=>"Davon.Hettinger@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:50-04:00", "updated_at"=>"2017-07-08T13:58:51-04:00", "first_name"=>"Davon", "last_name"=>"Hettinger", "orders_count"=>0, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>nil, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>nil, "addresses"=>[]}, @prefix_options={}, @persisted=true>,
+#<ShopifyAPI::Customer:0x007ffd798e2870 @attributes={"id"=>6410576341, "email"=>"Norval.Strosin@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:48-04:00", "updated_at"=>"2017-07-08T13:58:49-04:00", "first_name"=>"Norval", "last_name"=>"Strosin", "orders_count"=>0, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>nil, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>nil, "addresses"=>[]}, @prefix_options={}, @persisted=true>, #<ShopifyAPI::Customer:0x007ffd798dbca0 @attributes={"id"=>6410576213, "email"=>"Melvina.Kilback@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:46-04:00", "updated_at"=>"2017-07-08T14:01:09-04:00", "first_name"=>"Melvina", "last_name"=>"Kilback", "orders_count"=>3, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>5717873941, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>"#1154", "addresses"=>[]}, @prefix_options={}, @persisted=true>, #<ShopifyAPI::Customer:0x007ffd798d0d50 @attributes={"id"=>6410576021, "email"=>"Johathan.Legros@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:44-04:00", "updated_at"=>"2017-07-08T14:00:55-04:00", "first_name"=>"Johathan", "last_name"=>"Legros", "orders_count"=>2, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>5717870805, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>"#1120", "addresses"=>[]}, @prefix_options={}, @persisted=true>, #<ShopifyAPI::Customer:0x007ffd798c83d0 @attributes={"id"=>6410575765, "email"=>"Kenton.Wisoky@data-generator.com", "accepts_marketing"=>false, "created_at"=>"2017-07-08T13:58:43-04:00", "updated_at"=>"2017-07-08T14:00:15-04:00", "first_name"=>"Kenton", "last_name"=>"Wisoky", "orders_count"=>1, "state"=>"enabled", "total_spent"=>"0.00", "last_order_id"=>5717860245, "note"=>nil, "verified_email"=>true, "multipass_identifier"=>nil, "tax_exempt"=>false, "phone"=>nil, "tags"=>"data-generator", "last_order_name"=>"#1007", "addresses"=>[]}, @prefix_options={}, @persisted=true>]
